@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.e03xeuYtMPbRwcajGGgmYQHaDt&pid=Api&P=0&w=338&h=170");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+  }
+
+h1{
+    margin-bottom: 20px;
+}
+
+.row{
+    margin-bottom: 25px;
+}
+
+label{
+    text-align: right;
+}
+
+#btnSave{
+    background-color: rgb(31, 2, 2);
+    border-color: rgb(207, 194, 12);
+    
+}
+
